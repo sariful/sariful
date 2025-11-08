@@ -20,15 +20,12 @@ With a background in both **accounting** and **software engineering**, I’ve de
 
 ## 🧡 What I’m Building  
 ### 🧵 Zubizi ERP for Garment Manufacturers  
-An industry-focused ERP trusted by major manufacturers in **Metiabruz, Kolkata**, one of India’s largest garment hubs.  
+An industry-focused ERP trusted by major manufacturers in **Kolkata**.  
 Features include:  
 - 🔄 End-to-end production workflow (cutting → sewing → packaging)  
 - 🧾 Real-time costing, stock & batch tracking  
 - 💰 Integrated accounting & worker management  
 - 🤖 AI chatbot for analytics, reports & insights  
-
-### 💸 Zubizi Billing  
-A fast, simple and intuitive **billing & inventory management** system for retailers — now with **WhatsApp invoice sharing** and **loyalty point redemption**.
 
 ---
 
